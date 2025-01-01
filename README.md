@@ -12,4 +12,4 @@ A powerful and efficient directory fuzzing tool designed to help cybersecurity p
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/directory_fuzzer.git
+   git clone https://github.com/DChitale/directory_fuzzer.git
